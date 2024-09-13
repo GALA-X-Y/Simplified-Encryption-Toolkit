@@ -284,5 +284,5 @@ For more details, see the [LICENSE](https://github.com/x011/SecretPixel?tab=GPL-
 
 [^1]: Only either one is required.
 [^2]: Wrong passphrase can cause errors in decryption.
-[^3]: Binary files `.bin` are recommend for the output file format as it requires not formatting of bytes.
+[^3]: Binary files `.bin` are recommend for the output file format as it requires no formatting of bytes.
 [^4]: The original filename is optional. If no output filename is entered, original filename will be restored.
