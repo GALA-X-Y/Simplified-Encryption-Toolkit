@@ -19,7 +19,7 @@ To use SET, clone the repository or download the source code from GitHub. Ensure
 ```
 git clone https://github.com/GALA-X-Y/Simplified-Encryption-Toolkit.git
 cd Simplified-Encryption-Toolkit
-pip install -r requirements.txt
+pip install cryptography
 ```
 
 ## Direct Usage
